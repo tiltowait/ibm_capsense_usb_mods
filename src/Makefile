@@ -12,8 +12,8 @@
 # The board type and revision must match the controller
 
 #BOARD_TYPE    = BEAMSPRING
-#BOARD_TYPE    = BEAMSPRING_DISPLAYWRITER
-BOARD_TYPE    = MODEL_F
+BOARD_TYPE    = BEAMSPRING_DISPLAYWRITER
+#BOARD_TYPE    = MODEL_F
 BOARD_REV     = 1
 
 # USB current would normally be 100, unless used with solenoid driver---use 500
